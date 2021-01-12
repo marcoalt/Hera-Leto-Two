@@ -7,8 +7,8 @@ More info on the setup and analysis can be found on the HRV4Training Blog at thi
 
 Example of results for RR intervals:
 
-![alt text](https://github.com/marcoalt/Hera-Leto-Two/blob/main/figures/fig_rr_001.pdf)
+![alt text](https://i.postimg.cc/B6fmy4xF/Screenshot-2021-01-12-at-07-42-47.png)
 
 and heart rate variability (rMSSD):
 
-![alt text](https://github.com/marcoalt/Hera-Leto-Two/blob/main/figures/fig_rmssd_all.pdf)
+![alt text](https://i.postimg.cc/TPDkCpWG/Screenshot-2021-01-12-at-07-42-28.png)
